@@ -55,3 +55,4 @@ Antes de realizar la entrega, asegúrate de que tu proyecto cumple con los sigui
 - [X] ¿Se ha incluido la configuración del repositorio y se ha enlazado desde el README?
 - [X] ¿Tienes todos los datos necesarios para poder resolver el problema, o vas a requerir que el usuario los introduzca?
 - [X] ¿Has seguido la lista de comprobación o estás marcando al buen tuntún todo?
+
