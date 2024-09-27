@@ -22,3 +22,7 @@ git config --global user.email "santicolle@correo.ugr.es"
 ## Configuración clave pública GitHub
 
 [Imagen](../img/pub_key_github.png)
+
+## Git push a rama remota
+
+[Imagen](../img/git_push_demo.png)
