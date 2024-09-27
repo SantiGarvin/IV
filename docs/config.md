@@ -4,7 +4,7 @@
 ssh-keygen -t rsa -b 4096 -C "santicolle@hotmail.es"
 ```
 
-[Imagen resultado](../img/generated_pub_key.png)
+[Imagen](../img/generated_pub_key.png)
 
 ## Configuración git (local)
 
@@ -13,12 +13,12 @@ git config --global user.name "Santiago Garvin Perez"
 git config --global user.email "santicolle@correo.ugr.es"
 ```
 
-[Imagen resultado](../img/git_config_user.png)
+[Imagen](../img/git_config_user.png)
 
 ## Perfil GitHub
 
-[Imagen perfil](../img/github_profile.png)
+[Imagen](../img/github_profile.png)
 
 ## Configuración clave pública GitHub
 
-[Imagen resultado](../img/pub_key_github.png)
+[Imagen](../img/pub_key_github.png)
