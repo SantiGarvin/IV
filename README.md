@@ -54,6 +54,11 @@ Para usuarios que deseen funcionalidades adicionales, se pueden implementar las 
 - **Análisis Predictivo de Demanda:** Predecir la demanda de propiedades en distintas ubicaciones y tipos de inmueble.
 
 Estas características avanzadas requieren conocimientos adicionales en machine learning y pueden ser implementadas como módulos opcionales dentro de la plataforma.
+
+## Configuración del Repositorio
+
+Para detalles sobre la configuración del entorno y del repositorio, consulta [este documento](docs/config.md).
+
 ## Lista de Comprobación
 
 Antes de realizar la entrega, asegúrate de que tu proyecto cumple con los siguientes puntos:
