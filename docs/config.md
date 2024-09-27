@@ -1,9 +1,24 @@
 ## Generación de la Clave SSH
 
-Para configurar la autenticación SSH con GitHub, generé un par de claves SSH utilizando el siguiente comando en la terminal:
-
 ```bash
 ssh-keygen -t rsa -b 4096 -C "santicolle@hotmail.es"
 ```
 
 [Imagen resultado](../img/generated_pub_key.png)
+
+## Configuración git (local)
+
+```bash
+git config --global user.name "Santiago Garvin Perez"
+git config --global user.email "santicolle@correo.ugr.es"
+```
+
+[Imagen resultado](../img/git_config_user.png)
+
+## Perfil GitHub
+
+[Imagen perfil](../img/github_profile.png)
+
+## Configuración clave pública GitHub
+
+[Imagen resultado](../img/pub_key_github.png)
