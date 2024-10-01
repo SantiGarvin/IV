@@ -2,11 +2,15 @@
 
 ## Descripción del Proyecto
 
-Estoy desarrollando una plataforma web en la nube que permite a las pequeñas y medianas empresas (PYMEs) del sector retail en Granada analizar sus datos de ventas, identificar tendencias de consumo y optimizar sus estrategias de inventario y marketing. Esta herramienta proporcionará insights valiosos a través de tablas y gráficos interactivos, facilitando la toma de decisiones informadas basadas en datos reales.
+Este proyecto busca identificar y resolver el problema que enfrentan las PYMEs del sector retail en Granada a la hora de analizar sus datos de ventas. Actualmente, estas empresas carecen de herramientas accesibles que les permitan entender los patrones de consumo y optimizar sus operaciones. El objetivo es estudiar esta problemática y proponer una posible solución que, a través de un enfoque de análisis de datos, permita a las empresas mejorar su gestión de inventario y marketing.
 
 ## Problema a Resolver
 
-Como propietario de una PYME en el sector retail en Granada, he observado que muchas empresas similares a la mía enfrentan dificultades para analizar sus ventas diarias y comprender las tendencias de consumo. La falta de herramientas avanzadas de Inteligencia de Negocio limita nuestra capacidad para optimizar el inventario, reducir costos y mejorar las estrategias de marketing. Además, la dispersión de datos provenientes de diversas fuentes dificulta obtener una visión clara y precisa del rendimiento del negocio.
+En el contexto de las pequeñas y medianas empresas (PYMEs) del sector retail en Granada, he identificado una necesidad recurrente: la dificultad de analizar y comprender los datos de ventas de manera efectiva. La ausencia de herramientas accesibles y personalizadas para realizar análisis de ventas y el comportamiento del consumidor, junto con la complejidad de gestionar grandes cantidades de datos provenientes de diferentes fuentes, genera que muchas PYMEs no puedan tomar decisiones informadas sobre su inventario ni ajustar sus estrategias de marketing de forma eficiente.
+
+Las empresas enfrentan problemas para identificar patrones de consumo a tiempo, lo que se traduce en exceso o falta de inventario, y en campañas de marketing que no logran atraer a los clientes adecuados. Esta falta de visibilidad no sólo impacta negativamente en la competitividad de estas PYMEs, sino que también incrementa los costos operativos al no poder optimizar su inventario y promociones.
+
+El problema central que quiero abordar es, por lo tanto, la necesidad de una solución accesible y asequible para que las PYMEs del sector retail en Granada puedan comprender y utilizar sus datos de ventas para tomar decisiones informadas, basadas en datos, que les permitan mejorar su competitividad y optimización de recursos.
 
 ## Objetivo
 
