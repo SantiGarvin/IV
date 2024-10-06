@@ -17,12 +17,6 @@ La falta de acceso a información actualizada y análisis de tendencias del merc
 
 Es crucial abordar este problema para mejorar la estabilidad financiera de los agricultores y permitirles tomar decisiones basadas en datos y tendencias del mercado. Una mejor comprensión de los factores que influyen en los precios y acceso a información en tiempo real podría aliviar esta incertidumbre.
 
-## Consideraciones Adicionales
-
-- **Medibilidad**: El problema es medible en términos de variación de precios y su impacto en los ingresos.
-- **Personalización**: Al ser una experiencia personal y familiar, tienes un conocimiento profundo del problema.
-- **Relevancia**: Este es un problema común entre los agricultores de la región, lo que aumenta su relevancia y potencial impacto.
-
 ### Configuración del Repositorio
 
 Para detalles sobre la configuración del entorno y del repositorio, consulta [este documento](docs/config.md).
